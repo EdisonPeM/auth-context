@@ -1,0 +1,14 @@
+body {
+  background-color: #f2f2f2;
+}
+
+.layout {
+  background-color: #fff;
+  min-height: 100vh;
+  max-width: 750px;
+  margin: auto;
+
+  border: 1px solid #4d4d4d;
+  border-radius: 5px;
+  overflow: hidden;
+}
